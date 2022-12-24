@@ -20,4 +20,4 @@ services:
     name: redis
     ipAllowList: []
     plan: free
-    maxmemryPolicy: noeviction
+    maxmemoryPolicy: noeviction
